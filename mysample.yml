@@ -1,0 +1,19 @@
+--- 
+- students:
+  - name: anil 
+  - address: 
+       - Dno.: 123 
+       - city: nashik 
+       - Pin Code: 423101 
+  - name: sumil 
+  - address: 
+       - Dno: 145 
+       - City: pune 
+       - Pin Code: 1456
+  - name: 
+  - address: 
+       - Dno: 575
+       - City: Nagpur 
+       - Pin code: 979655
+        
+   
