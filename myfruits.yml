@@ -1,0 +1,14 @@
+--- 
+- myfruit: 
+   - apple:
+      - city: kashmir 
+   - banana: 
+      - city: jalgaon 
+   - oraneg: 
+      - city: nagpur 
+   -  pomegranate: 
+      - city: nashik 
+   - angoor: 
+      - city: nashik 
+      
+  
